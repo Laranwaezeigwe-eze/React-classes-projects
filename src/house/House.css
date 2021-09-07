@@ -1,0 +1,60 @@
+.lander{
+   display: flex; 
+   background-color: rgb(20, 77, 18);
+   width:103%;
+   height:3em;
+}
+.founder{
+    display: flex;
+    background-color: burlywood;
+    margin-left: 35px;
+    width:97.25%;
+}
+.room2{
+    display: flex;
+    justify-content: space-around;
+    background-color: chocolate;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+.deck{
+    display: flex;
+    height:30px;
+    background-color: cornsilk;
+    margin-left: 35px;
+}
+.room1{
+    display: flex;
+    justify-content: space-around;
+    background-color: chocolate;
+    margin-left: 35px;  
+}
+.pillar1,.pillar2,.pillar3,.pill4{
+    border: 2px solid white;
+    background-color:khaki ;
+}
+.wall1,.wall2,.wall3,.wal4{
+        background-color: mintcream;
+        width:10%;        
+}
+.win1,.win2{
+    border-style: dotted;
+    border-radius: 5px;
+    box-shadow: palegoldenrod;
+    background-color:rgb(202, 172, 142);
+}
+.roof{
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-bottom: 80px solid rgb(23, 26, 27);
+    margin-left: 5px;
+    width: 96%;
+}
+.door1,.windsor{
+    border: 5px transparent rgb(14, 13, 13);
+    background-color: rgb(165, 99, 99);
+    height:57.7%;
+}   
+    
+
+
